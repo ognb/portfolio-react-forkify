@@ -1,16 +1,16 @@
-React Basics Components
-The Forkify Recipe App allows users to search for recipes using the Food2Fork API. 
+# React Basics Components
+The Forkify Recipe App allows users to search for recipes. 
 For example "pizza", "burger"
 
-Content
+## Content
 
-React Basics & Working With Components
+* React Basics & Working With Components
 
-React State  & Working with Events
+* React State  & Working with Events
 
-Javascript fetch & Working with HTTP requests
+* Javascript fetch & Working with HTTP requests
 
-Rendering Lists & Conditional Content
+* Rendering Lists & Conditional Content
 
-Live link
+## Live link
 https://portfolio-react-forkify.netlify.app/
